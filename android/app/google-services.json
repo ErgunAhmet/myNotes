@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328780703163",
+    "firebase_url": "https://ng-complete-guide-87e4f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ng-complete-guide-87e4f",
+    "storage_bucket": "ng-complete-guide-87e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328780703163:android:fef9e069d675ba8ed8109e",
+        "android_client_info": {
+          "package_name": "be.codelearner.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328780703163-2knpmknct3st13bv4oh0si0p21em74vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojT4Ezgh3WQpJ7us1a-m23RJvUqzgtf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328780703163-2knpmknct3st13bv4oh0si0p21em74vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
